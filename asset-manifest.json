@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/elpadrino/static/css/main.e64324d5.chunk.css",
+    "main.js": "/elpadrino/static/js/main.237d26ac.chunk.js",
+    "main.js.map": "/elpadrino/static/js/main.237d26ac.chunk.js.map",
+    "runtime-main.js": "/elpadrino/static/js/runtime-main.f2d5a287.js",
+    "runtime-main.js.map": "/elpadrino/static/js/runtime-main.f2d5a287.js.map",
+    "static/js/2.208d6331.chunk.js": "/elpadrino/static/js/2.208d6331.chunk.js",
+    "static/js/2.208d6331.chunk.js.map": "/elpadrino/static/js/2.208d6331.chunk.js.map",
+    "index.html": "/elpadrino/index.html",
+    "static/css/main.e64324d5.chunk.css.map": "/elpadrino/static/css/main.e64324d5.chunk.css.map",
+    "static/js/2.208d6331.chunk.js.LICENSE.txt": "/elpadrino/static/js/2.208d6331.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/elpadrino/static/media/menubg.20eeab63.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2d5a287.js",
+    "static/js/2.208d6331.chunk.js",
+    "static/css/main.e64324d5.chunk.css",
+    "static/js/main.237d26ac.chunk.js"
+  ]
+}
