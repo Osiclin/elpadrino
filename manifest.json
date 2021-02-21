@@ -1,5 +1,5 @@
 {
-  "short_name": "El Padrino",
+  "short_name": "EP",
   "name": "El Padrino",
   "icons": [
     {
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#ffff0075",
+  "background_color": "#000000"
 }
