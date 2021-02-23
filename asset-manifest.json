@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/elpadrino/static/css/main.b4bb74af.chunk.css",
-    "main.js": "/elpadrino/static/js/main.17403f81.chunk.js",
-    "main.js.map": "/elpadrino/static/js/main.17403f81.chunk.js.map",
+    "main.css": "/elpadrino/static/css/main.5d4c7854.chunk.css",
+    "main.js": "/elpadrino/static/js/main.8eb06bf0.chunk.js",
+    "main.js.map": "/elpadrino/static/js/main.8eb06bf0.chunk.js.map",
     "runtime-main.js": "/elpadrino/static/js/runtime-main.f2d5a287.js",
     "runtime-main.js.map": "/elpadrino/static/js/runtime-main.f2d5a287.js.map",
-    "static/js/2.208d6331.chunk.js": "/elpadrino/static/js/2.208d6331.chunk.js",
-    "static/js/2.208d6331.chunk.js.map": "/elpadrino/static/js/2.208d6331.chunk.js.map",
+    "static/js/2.ecbde9fb.chunk.js": "/elpadrino/static/js/2.ecbde9fb.chunk.js",
+    "static/js/2.ecbde9fb.chunk.js.map": "/elpadrino/static/js/2.ecbde9fb.chunk.js.map",
     "index.html": "/elpadrino/index.html",
-    "static/css/main.b4bb74af.chunk.css.map": "/elpadrino/static/css/main.b4bb74af.chunk.css.map",
-    "static/js/2.208d6331.chunk.js.LICENSE.txt": "/elpadrino/static/js/2.208d6331.chunk.js.LICENSE.txt",
+    "static/css/main.5d4c7854.chunk.css.map": "/elpadrino/static/css/main.5d4c7854.chunk.css.map",
+    "static/js/2.ecbde9fb.chunk.js.LICENSE.txt": "/elpadrino/static/js/2.ecbde9fb.chunk.js.LICENSE.txt",
     "static/media/App.css": "/elpadrino/static/media/homebg.20eeab63.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.f2d5a287.js",
-    "static/js/2.208d6331.chunk.js",
-    "static/css/main.b4bb74af.chunk.css",
-    "static/js/main.17403f81.chunk.js"
+    "static/js/2.ecbde9fb.chunk.js",
+    "static/css/main.5d4c7854.chunk.css",
+    "static/js/main.8eb06bf0.chunk.js"
   ]
 }
